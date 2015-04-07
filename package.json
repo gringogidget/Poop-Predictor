@@ -1,0 +1,25 @@
+{
+  "name": "Poop-Predictor",
+  "version": "1.0.0",
+  "description": "A short program to let you know when you're going to poop next.",
+  "main": "whenDidYouLastPoop.js",
+  "scripts": {
+    "test": "Poop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gringogidget/Poop-Predictor.git"
+  },
+  "keywords": [
+    "Poop",
+    "Predictor",
+    "pooppredictor",
+    "poop-predictor"
+  ],
+  "author": "Kristina Groeger, @Gringogidget",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gringogidget/Poop-Predictor/issues"
+  },
+  "homepage": "https://github.com/gringogidget/Poop-Predictor"
+}
