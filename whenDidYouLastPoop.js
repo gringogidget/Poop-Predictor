@@ -1,22 +1,4 @@
-/* 
 
--function() {
- 
-  var exp = window;
- 
-  if (typeof process == 'object' && process.env) {
-    prompt = require('readline-sync').question;
-    exp = module;
-  }
- 
-  exp.lastPoo = function() {
-
-
-https://gist.github.com/hij1nx/9689111a8627e34b2fc4
-
-    
- 
-*/ 
     var lastPoop = prompt("When was the last time you pooped? Was it yesterday, today, or are you poopin' right now? (Type YESTERDAY, TODAY, or RIGHT NOW").toLowerCase();
  
     switch(lastPoop) {
