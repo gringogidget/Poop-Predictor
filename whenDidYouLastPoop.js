@@ -23,7 +23,7 @@
         console.log("You're not going to poop until tomorrow and you'll be totally constipated until then.");
       } 
       else {
-        console.log("You poop is out of control and I can't tell you when you're going to poop next. You're a hopeless shit machine. Sorry.");
+        console.log("Your poop is out of control and I can't tell you when you're going to poop next. You're a hopeless shit machine. Sorry.");
       }
       break;
  
